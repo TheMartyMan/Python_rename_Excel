@@ -1,2 +1,8 @@
-# Python_rename_Excel
+# Python
 Egyszerű Python program, amely átnevezi a mappa fájljait egy Excel fájl alapján
+
+Funkciók
+* Logolás
+* Excel és mappa fájlok ellenőrzése
+* Védelem, a hibás módosítások esetén visszaállítató
+
